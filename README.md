@@ -27,7 +27,7 @@ Preparing for competitive engineering entrance exams requires instant clarificat
 ## 📸 Live Demo & Preview
 
 <div align="center">
-  <img src="C:\Users\Jadav Divyarajsinh\OneDrive\Desktop\Pictures\DDCET bot telegram\bot-vision-test.jpeg" alt="DDCEThub Telegram Bot Demo" width="650" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+  <img src="C:\Users\Jadav Divyarajsinh\OneDrive\Desktop\Pictures\DDCET bot telegram\bot-vision-test.jpeg" alt="DDCEThub Telegram Bot Demo" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
   <p><em>Real-time DDCET doubt clearance with grounded syllabus referencing and verified source citations.</em></p>
 </div>
 
