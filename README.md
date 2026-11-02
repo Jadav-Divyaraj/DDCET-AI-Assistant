@@ -24,12 +24,30 @@ Preparing for competitive engineering entrance exams requires instant clarificat
 
 ---
 
-## 📸 Live Demo & Preview
+## 📸 Live Production Demos
 
-<div align="center">
-  <img src="C:\Users\Jadav Divyarajsinh\OneDrive\Desktop\Pictures\DDCET bot telegram\bot-vision-test.jpeg" alt="DDCEThub Telegram Bot Demo" width="350" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
-  <p><em>Real-time DDCET doubt clearance with grounded syllabus referencing and verified source citations.</em></p>
-</div>
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="docs/demo_vision_instrument.jpg" alt="Multimodal Instrument & Diagram Recognition" width="100%" style="border-radius: 8px;"/>
+      <br />
+      <b>🔬 Visual Diagram & Instrument OCR</b>
+      <p><em>Identifies engineering instruments, labels key components, and explains working functions directly from student photos.</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/demo_matrix_multilingual.jpg" alt="Multilingual Matrix Solver" width="100%" style="border-radius: 8px;"/>
+      <br />
+      <b>🌐 Multilingual Gujarati STEM Tutoring</b>
+      <p><em>Solves complex 2x2 & 3x3 matrix arithmetic with step-by-step Gujarati regional explanation.</em></p>
+    </td>
+    <td align="center" width="33%">
+      <img src="docs/demo_math_formulas_step_by_step.jpg" alt="Step-by-step Math Breakdown" width="100%" style="border-radius: 8px;"/>
+      <br />
+      <b>📐 Step-by-Step Formula & Limits Derivation</b>
+      <p><em>Parses dense lists of calculus limits and algebraic identities with phone-friendly Unicode formatting.</em></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
