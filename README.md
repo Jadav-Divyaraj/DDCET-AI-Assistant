@@ -1,4 +1,4 @@
- 🎓 DDCEThub — DDCET AI Study Assistant
+                                   🎓 DDCEThub — DDCET AI Study Assistant
 
 <div align="center">
 
