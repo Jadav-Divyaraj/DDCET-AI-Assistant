@@ -1,0 +1,2 @@
+"""GTU Telegram bot package."""
+
