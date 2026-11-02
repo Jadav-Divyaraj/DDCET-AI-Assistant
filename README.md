@@ -1,4 +1,4 @@
-<img width="738" height="500" alt="WhatsApp Image 2026-09-13 at 4 31 26 PM (1)" src="https://github.com/user-attachments/assets/2fe68ade-7115-4305-b1ab-6a3fdc1b1b7a" /># 🎓 DDCEThub — DDCET AI Study Assistant
+ 🎓 DDCEThub — DDCET AI Study Assistant
 
 <div align="center">
 
