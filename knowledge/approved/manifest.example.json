@@ -1,0 +1,14 @@
+{
+  "documents": [
+    {
+      "path": "files/environmental-science-unit-1.pdf",
+      "title": "Environmental Science Notes",
+      "subject": "Environmental Science",
+      "unit": "Unit 1",
+      "topic": "",
+      "document_type": "notes",
+      "include_pages": [1, 2, 3],
+      "approved": true
+    }
+  ]
+}

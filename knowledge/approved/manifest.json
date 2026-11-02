@@ -1,0 +1,42 @@
+{
+  "documents": [
+    {
+      "path": "files/official-ddcet-engineering-syllabus-2024.pdf",
+      "title": "Official DDCET (Engineering) Exam Syllabus",
+      "subject": "DDCET Engineering",
+      "unit": "BE-01 and BE-02",
+      "topic": "Official examination syllabus",
+      "document_type": "syllabus",
+      "approved": true
+    },
+    {
+      "path": "files/ddcethub-environmental-sciences-unit-01-ecosystem-notes.pdf",
+      "title": "DDCEThub Environmental Sciences Unit 01 - Ecosystem",
+      "subject": "Environmental Sciences",
+      "unit": "Unit 01",
+      "topic": "Ecosystem",
+      "document_type": "notes",
+      "approved": true
+    },
+    {
+      "path": "files/ddcet-engineering-paper-2025-a.pdf",
+      "title": "DDCET Engineering Question Paper 2025 - Set A",
+      "subject": "DDCET Engineering",
+      "unit": "BE-01 and BE-02",
+      "topic": "Previous examination paper",
+      "document_type": "paper",
+      "include_pages": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 20, 21, 22, 23],
+      "approved": true
+    },
+    {
+      "path": "files/ddcet-engineering-paper-2024-a.pdf",
+      "title": "DDCET Engineering Question Paper 2024 - Set A",
+      "subject": "DDCET Engineering",
+      "unit": "BE-01 and BE-02",
+      "topic": "Previous examination paper",
+      "document_type": "paper",
+      "include_pages": [1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 20, 21, 22, 23],
+      "approved": true
+    }
+  ]
+}
